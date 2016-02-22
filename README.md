@@ -1,6 +1,6 @@
 # ImmersionToolbar
 ====
-沉浸式状态栏，现在一般来讲是透明状态栏，从android4.4开始android支持设置状态栏的蓝色，从android5.0开始有了AppCompat主题，支持toolbar，colorPrimary，colorPrimaryDark等的设置，本例是在基于android版本在4.4以上的沉浸式。
+沉浸式状态栏，现在一般来讲是透明状态栏，从android4.4开始android支持设置状态栏的颜色，从android5.0开始有了AppCompat主题，支持toolbar，colorPrimary，colorPrimaryDark等的设置，本例是在基于android版本在4.4以上的沉浸式。
 #效果图
 
 #主要代码
